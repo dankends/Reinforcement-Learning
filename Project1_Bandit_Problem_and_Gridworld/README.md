@@ -55,6 +55,3 @@ For a 5x5 grid environment:
 3. **Run Notebook**:
    - Open and run `codes.ipynb` in the `notebooks` folder to see the implementation and results.
 
-## Future Work
-- Experimenting with hyperparameter tuning.
-- Testing additional exploration strategies.
