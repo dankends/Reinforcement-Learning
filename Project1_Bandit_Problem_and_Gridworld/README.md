@@ -53,7 +53,7 @@ For a 5x5 grid environment:
    ```
 
 3. **Run Notebook**:
-   - Open and run `HW1_cleaned.ipynb` in the `notebooks` folder to see the implementation and results.
+   - Open and run `codes.ipynb` in the `notebooks` folder to see the implementation and results.
 
 ## Future Work
 - Experimenting with hyperparameter tuning.
