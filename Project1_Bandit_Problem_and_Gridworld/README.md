@@ -43,7 +43,7 @@ For a 5x5 grid environment:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/HW1_Bandit_Problem_and_Gridworld.git
+   git clone https://github.com/dankends/HW1_Bandit_Problem_and_Gridworld.git
    cd HW1_Bandit_Problem_and_Gridworld
    ```
 
