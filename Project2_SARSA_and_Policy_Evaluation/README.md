@@ -86,7 +86,7 @@ Project Structure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ plaintext
 RL-FrozenLake-Project/
 ├── notebooks/
-│   └── RL_FrozenLake_Project.ipynb   # Main Jupyter Notebook with code and outputs
+│   └── Notebook.ipynb   # Main Jupyter Notebook with code and outputs
 ├── README.md                         # Project readme file
 └── requirements.txt                  # Dependencies
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
