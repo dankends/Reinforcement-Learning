@@ -43,8 +43,8 @@ For a 5x5 grid environment:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dankends/HW1_Bandit_Problem_and_Gridworld.git
-   cd HW1_Bandit_Problem_and_Gridworld
+   git clone https://github.com/dankends/Project1_Bandit_Problem_and_Gridworld.git
+   cd Project1_Bandit_Problem_and_Gridworld
    ```
 
 2. **Install dependencies**:
@@ -53,8 +53,5 @@ For a 5x5 grid environment:
    ```
 
 3. **Run Notebook**:
-   - Open and run `HW1_cleaned.ipynb` in the `notebooks` folder to see the implementation and results.
+   - Open and run `codes.ipynb` in the `notebooks` folder to see the implementation and results.
 
-## Future Work
-- Experimenting with hyperparameter tuning.
-- Testing additional exploration strategies.
